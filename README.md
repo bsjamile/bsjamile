@@ -1,4 +1,4 @@
-### Olá! Eu sou a Jamile Barroso
+### Hello World! Eu sou a Jamile
 
 - 🌱 Estudando Raciocínio Lógico & VBA & Pythoon
 - 💬 Contadora por formação & Woman in Tech com o coração
