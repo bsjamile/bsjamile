@@ -1,5 +1,6 @@
 ### Hello World! Eu sou a Jamile
 
+- 💻 Woman in Tech
 - 🌱 Estudando Raciocínio Lógico & VBA & Pythoon
 - 💬 Contadora por formação & Woman in Tech com o coração
 - 😄 Pronouns: ela/dela (she/her)
