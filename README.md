@@ -4,7 +4,6 @@
 - 🌱 Estudando Raciocínio Lógico & VBA & Pythoon
 - 😄 Pronouns: ela/dela (she/her)
 
-<img align="center" alt="bsjamile-msqlserver"  src="https://komarev.com/ghpvc/?username=benccalcyxzfi&style=flat-square">
 
 <div align="center">
   <a href="https://github.com/bsjaamile">
