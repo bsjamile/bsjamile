@@ -1,6 +1,6 @@
 ### Hello World! Eu sou a Jamile
 
-- 💻 Contadora por formação & Woman in Tech com o coração
+- 🏳️‍🌈 Contadora por formação & Woman in Tech com o coração
 - 🌱 Estudando Raciocínio Lógico & JavaScript
 - 😄 Pronouns: ela/dela (she/her)
 
