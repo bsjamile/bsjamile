@@ -1,7 +1,7 @@
 ### Hello World! Eu sou a Jamile
 
 - 🏳️‍🌈 Contadora por formação & Woman in Tech com o coração
-- 🌱 Estudando Raciocínio Lógico & JavaScript
+- 🌱 Estudando Raciocínio Lógico & Banco de Dados & C#
 - 😄 Pronouns: ela/dela (she/her)
 - [Projeto](https://grupovencedoras.netlify.app/) final desenvolvido pelo meu SQUAD, finalizando a parte de front-end do curso ConstruDelas
       
