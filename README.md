@@ -3,7 +3,7 @@
 - 🏳️‍🌈 Contadora por formação & Woman in Tech com o coração
 - 🌱 Estudando Raciocínio Lógico & JavaScript
 - 😄 Pronouns: ela/dela (she/her)
-- (Projeto)[https://grupovencedoras.netlify.app/] final desenvolvido pelo meu SQUAD
+- [Projeto][https://grupovencedoras.netlify.app/] final desenvolvido pelo meu SQUAD
       
 
 
