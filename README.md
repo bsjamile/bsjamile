@@ -4,6 +4,7 @@
 - 🌱 Estudando Raciocínio Lógico & Banco de Dados & C#
 - 😄 Pronouns: ela/dela (she/her)
 - [Projeto](https://grupovencedoras.netlify.app/) final desenvolvido pelo meu SQUAD, finalizando a parte de front-end do curso ConstruDelas
+- [Meus Cursos](https://jamile-barroso.netlify.app/) em um site realizado por mim :)
       
 
 
