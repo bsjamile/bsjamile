@@ -1,7 +1,7 @@
 ### Hello World! Eu sou a Jamile
 
 - 🏳️‍🌈 Progama Start by Capgemini & Programa ConstruDelas by Juntos Somos Mais
-- 🌱 Estudando C# & Java & Banco de Dados
+- 🌱 Estudando C# & Banco de Dados
 - 😄 Pronouns: ela/dela (she/her)
 - [Projeto](https://grupovencedoras.netlify.app/) final desenvolvido pelo meu SQUAD, finalizando a parte de front-end do curso ConstruDelas
 - [Meus Cursos](https://jamile-barroso.netlify.app/) em um site realizado por mim :)
