@@ -26,13 +26,13 @@
     
 <!--<div align="left">
   <img src="https://komarev.com/ghpvc/?username=bsjamile&label=Profile%20views&color=0e75b6&style=flat" alt="bsjamile" />
-</div>-->
+</div>
         
 <span align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&theme=tokyonight)]([https://github.com/bsjamile/bsjamile/github-README-stats])
 
-</span>
+</span>-->
   
   ![Snake animation](https://github.com/bsjamile/bsjamile/blob/output/github-contribution-grid-snake.svg)
     
