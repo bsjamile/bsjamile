@@ -6,12 +6,8 @@
 - [Projeto](https://grupovencedoras.netlify.app/) final desenvolvido pelo meu SQUAD, finalizando a parte de front-end do curso ConstruDelas
 - [Meus Cursos](https://jamile-barroso.netlify.app/) em um site realizado por mim :)
       
-<div align="center">
-  <a href="https://github.com/bsjamile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsjamile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&langs_count=7&theme=dark"/>-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact)](https://github.com/bsjamile/github-readme-stats)
-</div>
+| <a href="https://github.com/bsjamile/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bsjamile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/bsjamile/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
 <div style="display: inline_block"><br>
       <img align="center" alt="Jamile-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
