@@ -27,7 +27,7 @@
   <a href = "https://medium.com/@jamilebarroso"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   </div>
     
-<div align="left">
+<!--<div align="left">
   <img src="https://komarev.com/ghpvc/?username=bsjamile&label=Profile%20views&color=0e75b6&style=flat" alt="bsjamile" />
 </div>
         
