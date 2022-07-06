@@ -13,7 +13,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-      <img align="center" alt="Jamile-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Jamile-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
  ##
