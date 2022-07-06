@@ -9,7 +9,11 @@
 <a href="https://github.com/bsjamile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsjamile&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<span align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&theme=dracula)](https://github.com/bsjamile/github-readme-stats)
+
+</span>
   
 <div style="display: inline_block"><br>
       <img align="center" alt="Jamile-Csharp" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
