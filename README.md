@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&theme=tokyonight)]([https://github.com/bsjamile/bsjamile/github-README-stats])
 
+<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
 </span>-->
   
   ![Snake animation](https://github.com/bsjamile/bsjamile/blob/output/github-contribution-grid-snake.svg)
