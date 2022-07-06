@@ -24,18 +24,9 @@
   <a href = "mailto:jamilebarroso0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/936361289947705345/936361292653006860" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jamile-barroso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://medium.com/@jamilebarroso"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href = "https://medium.com/@jamilebarroso"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>     
 
-<!--<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=bsjamile&label=Profile%20views&color=0e75b6&style=flat" alt="bsjamile" />
+![Snake animation](https://github.com/bsjamile/bsjamile/blob/output/github-contribution-grid-snake.svg)    
 </div>
-        
-<span align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bsjamile&layout=compact&theme=tokyonight)]([https://github.com/bsjamile/bsjamile/github-README-stats])
-</span>-->
-      
-
-  ![Snake animation](https://github.com/bsjamile/bsjamile/blob/output/github-contribution-grid-snake.svg)    
-  </div>
   
  
