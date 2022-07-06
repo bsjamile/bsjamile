@@ -6,8 +6,6 @@
 - [Projeto](https://grupovencedoras.netlify.app/) final desenvolvido pelo meu SQUAD, finalizando a parte de front-end do curso ConstruDelas
 - [Meus Cursos](https://jamile-barroso.netlify.app/) em um site realizado por mim :)
       
-
-
 <div align="center">
   <a href="https://github.com/bsjamile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsjamile&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
