@@ -1,7 +1,7 @@
 ### Hello World! Eu sou a Jamile
 
-- 🏳️‍🌈 Programa ConstruDelas by Juntos Somos Mais
-- 🌱 Estudando Power BI e VBA
+- 🏳️‍🌈 Programa Reprograma - Análise de Dados com Python
+- 🌱 Estudando Python
 - 😄 Pronouns: ela/dela (she/her)
 - [Projeto](https://grupovencedoras.netlify.app/) final desenvolvido pelo meu SQUAD, finalizando a parte de front-end do curso ConstruDelas
 - [Meus Cursos](https://jamile-barroso.netlify.app/) em um site realizado por mim :)
